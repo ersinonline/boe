@@ -2,6 +2,8 @@
 
 Bu depo, **Front-End Web Geliştirme** alanında kapsamlı bir eğitim sürecini takip eder. HTML, CSS, Bootstrap, JavaScript ve Python gibi modern teknolojileri kullanarak web geliştirme becerilerinizi sıfırdan ileri seviyeye kadar geliştirmeyi amaçlayan interaktif bir eğitim dizisini içeriyor.
 
+<p style="color: red; font-weight: bold;">Bu bir aldığım eğitime ait depodur. Tamamen bana aittir. Eğitim videoları izlenerek eklemeler yapılmıştır. Eğitime sayfanın en altındaki linkten ulaşabilirsiniz.</p>
+
 ## Eğitim İçeriği
 
 Bu eğitim serisi, **yeni başlayanlardan** **ileri düzey geliştiricilere** kadar herkesin öğrenebileceği temel ve ileri düzey konuları kapsamaktadır. Eğitim modüllerinde aşağıdaki başlıklar yer almaktadır:
@@ -52,3 +54,7 @@ Eğitim, teorik bilgiler ile birlikte **pratik projeler** sunarak, gerçek düny
 
 ## Nasıl Katılabilirsiniz?
 Eğitimi katılmak için <b>https://boenstitu.com/online-egitimler/front-end-web-gelistirme</b> sitesinden kayıt olabilirsiniz ve eğitimi tamamlayıp üniversite onaylı sertifikanızı alabilirsiniz. Ben katıldım ve çok beğendim 😊
+
+<br>
+<br>
+<img src="https://binyaprak.com/images/blog_articles/2318/enstit_nedir_boazii_enstits_1.jpg" width="2500">
