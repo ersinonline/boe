@@ -2,7 +2,7 @@
 
 Bu depo, **Front-End Web Geliştirme** alanında kapsamlı bir eğitim sürecini takip eder. HTML, CSS, Bootstrap, JavaScript ve Python gibi modern teknolojileri kullanarak web geliştirme becerilerinizi sıfırdan ileri seviyeye kadar geliştirmeyi amaçlayan interaktif bir eğitim dizisini içeriyor.
 
-<p style="color: red; font-weight: bold;">Bu bir aldığım eğitime ait depodur. Tamamen bana aittir. Eğitim videoları izlenerek eklemeler yapılmıştır. Eğitime sayfanın en altındaki linkten ulaşabilirsiniz.</p>
+<p>**Bu bir aldığım eğitime ait depodur. Tamamen bana aittir. Eğitim videoları izlenerek eklemeler yapılmıştır. Eğitime sayfanın en altındaki linkten ulaşabilirsiniz.**</p>
 
 ## Eğitim İçeriği
 
